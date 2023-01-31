@@ -1,0 +1,10 @@
+.HeaderLink {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 40px;
+
+    &:last-child {
+        margin-right: 45px;
+    }
+}

@@ -1,0 +1,16 @@
+.Header {
+    // background: #7000FF;
+    // filter: blur(180px);
+    // transform: rotate(90deg);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    &-link {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 21px;
+        color: #B6B6DD;
+    }
+}
